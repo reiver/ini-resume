@@ -10,8 +10,8 @@ github.com/reiver/go-htmlescape v0.0.0-20250114014205-592635259450 h1:npqcrOWt3K
 github.com/reiver/go-htmlescape v0.0.0-20250114014205-592635259450/go.mod h1:ky7bMnfOO2ldJvLXDw+IHVFkjNIaz2sOH0A51kG5LT0=
 github.com/reiver/go-humane v0.0.0-20250101051026-1edff680dc45 h1:2JakqwjPRsBKUoTHXMX9mddtCrVOImgkj2KxyLek+Zk=
 github.com/reiver/go-humane v0.0.0-20250101051026-1edff680dc45/go.mod h1:jfTsMX5lkwcv6mnIU/yrkUajKg8zzEgZuPRy1FonHr4=
-github.com/reiver/go-ini v0.0.0-20250117223704-d3cbad35b48b h1:W1uU15beC215WKT/RJ2Ut76pT1xTh6ICKCYXUfojQtY=
-github.com/reiver/go-ini v0.0.0-20250117223704-d3cbad35b48b/go.mod h1:XP8aIAk5/bH3PLP5IObjMT2iCcJGNIxDipKiEJC+AJg=
+github.com/reiver/go-ini v0.0.0-20250118185026-4d10cebdab46 h1:8Njb1tFiSR6crYzTnLUaOssSoyrxDab4+FO+lTJvoSQ=
+github.com/reiver/go-ini v0.0.0-20250118185026-4d10cebdab46/go.mod h1:XP8aIAk5/bH3PLP5IObjMT2iCcJGNIxDipKiEJC+AJg=
 github.com/reiver/go-iolsep v0.0.0-20240403200747-06510a3258fa h1:pizKj9zyYLbbSiG6eVZkF/B4n1wHmcy4+QS54lnW59k=
 github.com/reiver/go-iolsep v0.0.0-20240403200747-06510a3258fa/go.mod h1:8yLTiIG9EfrSvaNxpfsle3WsrF0K33X/tCSnowfT5xw=
 github.com/reiver/go-iopsep v0.0.0-20240403200735-607acd3df170 h1:JuB4LcHbipPM44cqFcCxZ6QIFK1/EvjgMpkQPhxyVtA=
