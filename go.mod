@@ -4,7 +4,7 @@ go 1.23.4
 
 require (
 	github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f
-	github.com/reiver/go-ini v0.0.0-20250118185026-4d10cebdab46
+	github.com/reiver/go-ini v0.0.0-20250119083733-eaca7a85adb4
 	github.com/reiver/go-wikiwiki v0.0.0-20250117230010-3169567ccfad
 )
 
